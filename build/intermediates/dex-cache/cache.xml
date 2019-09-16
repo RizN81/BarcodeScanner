@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rizwan Khan\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.0\73c49077166faa4c3c0059c5f583d1d7bd1475fe\core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="D:\Android Studio Workspace\BarcodeScanner\app\build\intermediates\pre-dexed\debug\core-3.3.0_fbb1fabea9cd9a54cc1a06a8e64816d40204da24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rizwan Khan\.android\build-cache\7bffd80c7b093851b206781c7bd9446c6f003ff8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Android Studio Workspace\BarcodeScanner\app\build\intermediates\pre-dexed\debug\classes_4be4b4c31c3ebaaee38dbb16f01530105cf7521e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rizwan Khan\.android\build-cache\11fdf299a5d936c62a440f091ebd1c86e3e83b31\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Android Studio Workspace\BarcodeScanner\app\build\intermediates\pre-dexed\debug\classes_84f1d1e82dd1d05bad54eda32c432c433b85f395.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rizwan Khan\.android\build-cache\86cd7fe6e06616fca65f3d0f424846405bd384ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Android Studio Workspace\BarcodeScanner\app\build\intermediates\pre-dexed\debug\classes_fe4ac092e7d97bc4f45c2a00366619d238c6d7a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rizwan Khan\.android\build-cache\41400299b872a3dd4dde21dd16ee754ce13308d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Android Studio Workspace\BarcodeScanner\app\build\intermediates\pre-dexed\debug\classes_7f44f7f83f2bcba08720812a547f1437c0deb6eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rizwan Khan\.android\build-cache\1610acdbacf919e606b2a05cee26fdbe669c99b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\Android Studio Workspace\BarcodeScanner\app\build\intermediates\pre-dexed\debug\classes_3fd7c28808ab2d6f636f21f1c4fa9e1071f7227e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidSDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="D:\Android Studio Workspace\BarcodeScanner\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_a976fd63c3379a4732398e8b14d6fe13264dd285.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rizwan Khan\.android\build-cache\ad539a34a59b124e7b2ed4f4b9bca36adbc2b39e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="D:\Android Studio Workspace\BarcodeScanner\app\build\intermediates\pre-dexed\debug\classes_402d9674f517a3a2da128f429fa2ec22e1ee8229.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rizwan Khan\.android\build-cache\4893b601dc3ff566d9ecc4fb5b6a70dcee128d4e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android Studio Workspace\BarcodeScanner\app\build\intermediates\pre-dexed\debug\classes_cdb17bb96fa7b68924d105da9ddf398ffe5ce7fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rizwan Khan\.android\build-cache\afac77c85b6e3f4786971af48af7a93d6a17cbe3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="77e3f210322743390ab44e667cc8988ba5d9433b">
+        <dex dex="D:\Android Studio Workspace\BarcodeScanner\app\build\intermediates\pre-dexed\debug\classes_e8266561c89298c8b214de6a3312806346e4334c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rizwan Khan\.android\build-cache\37b9f0e956992b4f07b81e16645d900de2d42fe4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Android Studio Workspace\BarcodeScanner\app\build\intermediates\pre-dexed\debug\classes_f7813977adae82ba0326e117b3d3f6e97ac6fe1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rizwan Khan\.android\build-cache\5cfd4f9df47de9dc293aef6e73ef1235364936ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="D:\Android Studio Workspace\BarcodeScanner\app\build\intermediates\pre-dexed\debug\classes_e6cf261ceeb4d6ca654eeff2ce04fd0b2d41be39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rizwan Khan\.android\build-cache\3c9ea95eba58785ec99a9cc297b93cdbf846fbf8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Android Studio Workspace\BarcodeScanner\app\build\intermediates\pre-dexed\debug\classes_8f4a57e709e646726b9990593bf8ca93b5253659.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Android Studio Workspace\BarcodeScanner\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_b343fdeb5b576404e318a5a0dffcf1d09ebc4899.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rizwan Khan\.android\build-cache\ae187474c00cdafbed7c083e5a9655fe387f9354\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Android Studio Workspace\BarcodeScanner\app\build\intermediates\pre-dexed\debug\classes_971bf49fa8dada3ab76840b0869c6ce8f5f90e8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rizwan Khan\.android\build-cache\4e041805bdbd74540f65c5396588f76c906ba04c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Android Studio Workspace\BarcodeScanner\app\build\intermediates\pre-dexed\debug\classes_5f8e674a65012760b73c6a905c99636824dbda91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rizwan Khan\.android\build-cache\60d1a780be29496620f32fb899b25f0e2655cced\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="D:\Android Studio Workspace\BarcodeScanner\app\build\intermediates\pre-dexed\debug\classes_39901869d0b703e3f8b31b44b52b1a9f8ad1959e.jar" />
+    </item>
+
+</items>
